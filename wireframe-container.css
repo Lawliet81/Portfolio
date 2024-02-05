@@ -1,0 +1,123 @@
+.back-glow-icon {
+  top: 92px;
+  left: -375px;
+  width: 709.5px;
+  height: 840.7px;
+  object-fit: contain;
+}
+.back-glow-icon,
+.css,
+.my-skills {
+  position: absolute;
+}
+.my-skills {
+  top: 145px;
+  left: 149px;
+  font-size: var(--font-size-124xl-3);
+  letter-spacing: 0.05em;
+  line-height: 102.5px;
+  font-weight: 600;
+  font-family: var(--font-k2d);
+  color: var(--color-white);
+}
+.css {
+  top: calc(50% - 123px);
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 80px;
+}
+.span {
+  font-size: var(--font-size-20xl-6);
+}
+.bootstrap {
+  position: absolute;
+  top: calc(50% - 59px);
+  left: 0;
+}
+.col-1,
+.javascript,
+.react {
+  position: absolute;
+  top: calc(50% + 15px);
+  left: 0;
+}
+.col-1,
+.react {
+  top: calc(50% + 84px);
+}
+.col-1 {
+  top: calc(50% - 91px);
+  left: 149px;
+  width: 156px;
+  height: 246px;
+}
+.figma,
+.nodejs,
+.python,
+.tailwind {
+  position: absolute;
+  top: calc(50% + 119px);
+  left: 717px;
+}
+.figma,
+.nodejs,
+.tailwind {
+  top: calc(50% + 49px);
+}
+.figma,
+.tailwind {
+  top: calc(50% - 21px);
+}
+.figma {
+  top: calc(50% - 91px);
+}
+.dot-lines-icon,
+.dot-lines-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 265px;
+  height: 19px;
+}
+.dot-lines-icon1 {
+  top: 66px;
+}
+.dot-line-1,
+.dot-line-2,
+.dot-lines-icon2,
+.dot-lines-icon3 {
+  position: absolute;
+  top: 132px;
+  left: 0;
+  width: 265px;
+  height: 19px;
+}
+.dot-line-1,
+.dot-line-2,
+.dot-lines-icon3 {
+  top: 198px;
+}
+.dot-line-1,
+.dot-line-2 {
+  top: 440px;
+  left: 903px;
+  height: 217px;
+}
+.dot-line-1 {
+  top: 423px;
+  left: 349px;
+  width: 274px;
+  height: 236px;
+}
+.wireframe-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-snow);
+  font-family: var(--font-inter);
+}

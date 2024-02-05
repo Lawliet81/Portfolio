@@ -1,0 +1,145 @@
+.back-glow-icon3 {
+  position: absolute;
+  top: 199.9px;
+  left: -58.3px;
+  width: 679.6px;
+  height: 978.3px;
+  object-fit: contain;
+}
+.contact-me2 {
+  position: absolute;
+  top: 61px;
+  left: 446px;
+  font-size: var(--font-size-99xl-1);
+  letter-spacing: 0.05em;
+  line-height: 84.47px;
+  font-weight: 600;
+  text-align: left;
+}
+.union-icon1 {
+  position: relative;
+  width: 113px;
+  height: 394px;
+  object-fit: contain;
+}
+.ggarrow-left-icon1 {
+  position: absolute;
+  top: 596px;
+  left: 1080px;
+  width: 169px;
+  height: 149px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.intersect-icon {
+  position: relative;
+  width: 225.3px;
+  height: 193px;
+}
+.wireframe-5-child {
+  position: absolute;
+  top: -241px;
+  left: -60px;
+  border-radius: 50%;
+  border: 217px solid rgba(250, 0, 255, 0.33);
+  box-sizing: border-box;
+  width: 960px;
+  height: 978px;
+}
+.wireframe-5-item {
+  position: absolute;
+  top: 186px;
+  left: 446px;
+  background-color: transparent;
+  width: 690px;
+  height: 786px;
+}
+.wireframe-5-child1,
+.wireframe-5-child2,
+.wireframe-5-inner {
+  position: absolute;
+  top: 301px;
+  left: 525px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gray-300);
+  width: 517px;
+  height: 74px;
+}
+.wireframe-5-child1,
+.wireframe-5-child2 {
+  top: 474px;
+}
+.wireframe-5-child2 {
+  top: 625px;
+  left: 532px;
+  height: 240px;
+}
+.name {
+  position: absolute;
+  top: 236px;
+  left: 554px;
+  line-height: 84.47px;
+  font-weight: 500;
+}
+.enter-your-email,
+.enter-your-name {
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inter);
+  color: var(--color-gainsboro-100);
+}
+.enter-your-name {
+  position: absolute;
+  top: 295px;
+  left: 546px;
+  line-height: 84.47px;
+}
+.enter-your-email {
+  top: 474px;
+  left: 548px;
+}
+.email,
+.enter-the-message,
+.enter-your-email,
+.message {
+  position: absolute;
+  line-height: 84.47px;
+}
+.enter-the-message {
+  top: 639px;
+  left: 541px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inter);
+  color: var(--color-gainsboro-100);
+}
+.email,
+.message {
+  top: 411px;
+  left: 553px;
+  font-weight: 500;
+}
+.message {
+  top: 559px;
+}
+.wireframe-5-child3,
+.wireframe-5-child4 {
+  position: absolute;
+  top: 903px;
+  left: 6px;
+  max-height: 100%;
+  width: 1436px;
+}
+.wireframe-5-child4 {
+  top: 904px;
+  left: 2px;
+}
+.wireframe-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 904px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
